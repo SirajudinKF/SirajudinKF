@@ -16,7 +16,7 @@
 
  💬 Ask me about **AWS, MacOS, Linux, Node.js, React, MongoDB... or anything [here](https://github.com/SirajudinKF/issues)**
 
- ⚡ Car fact **Wheels for feels!**
+ ⚡  **Wheels for feels!**
  
  </div>
  
