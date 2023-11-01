@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **AWS, GCP, Cyber Security, Terraform, React Native Expo**
 
- 💬 Ask me about **AWS, MacOS, Linux, Node.js, React, MongoDB... or anything [here](https://github.com/SirajudinKF/issues)**
+ 💬 Ask me about **AWS, MacOS, Linux, Node.js, React, MongoDB... or anything [here](mailto:sirajudheen407@gmail.com)**
 
  ⚡  **Wheels for feels!**
  
